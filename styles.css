@@ -123,6 +123,7 @@ button {
     align-items: center;
     width: 228px;
     background-color: #D2CCC3;
+    color: #17171C;
     font-family: "Poppins", sans-serif;
     font-size: 16px;
     line-height: 16px;
@@ -146,6 +147,7 @@ button:hover {
     align-items: center;
     width: 200px;
     background-color: #D2CCC3;
+    color: #17171C;
     font-family: "Poppins", sans-serif;
     font-size: 16px;
     line-height: 16px;
