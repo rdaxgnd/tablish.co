@@ -6,7 +6,7 @@ function addColumn() {
         let cell = rows[i].insertCell(-1);
         let input = document.createElement('input');
         input.type = 'text';
-        input.placeholder = 'Empty';
+        input.placeholder = '';
         cell.appendChild(input);
     }
 }
@@ -20,7 +20,7 @@ function addRow() {
         let cell = newRow.insertCell(-1);
         let input = document.createElement('input');
         input.type = 'text';
-        input.placeholder = 'Empty';
+        input.placeholder = '';
         cell.appendChild(input);
     }
 }
